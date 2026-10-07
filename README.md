@@ -96,13 +96,6 @@ Basic_MUSIC_PLAYER/
 
 ---
 
-## 👤 Author
-
-**Vedasri Peddapeta**
-- GitHub: [@Vedasri-Peddapeta](https://github.com/Vedasri-Peddapeta)
-
----
-
-## 📄 License
+##  License
 
 This project is licensed under the [MIT License](LICENSE).
