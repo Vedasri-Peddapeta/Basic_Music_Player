@@ -1,4 +1,4 @@
-# ♫ Melody — Python Desktop Music Player
+# ♫ Melody — Basic Python Desktop Music Player
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-FF6F00?style=for-the-badge)
@@ -9,7 +9,7 @@
 
 ---
 
-## ✨ Features
+## Features:
 
 - **Modern Dark UI** — Sleek `#121212` dark palette with `#bb86fc` purple accents.
 - **MP3 File Browser** — Native system file dialog to quickly browse and load `.mp3` tracks.
@@ -19,7 +19,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack:
 
 | Component | Technology | Purpose |
 | :--- | :--- | :--- |
@@ -29,7 +29,7 @@
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Prerequisites
 
@@ -74,7 +74,7 @@ python music_player.py
 
 ---
 
-## 🎮 How to Use
+## How to Use:
 
 1. Click **`LOAD`** to open the file chooser and select any `.mp3` file from your computer.
 2. Click **`PLAY`** to start playback from the beginning of the selected track.
@@ -82,8 +82,8 @@ python music_player.py
 4. Drag the **Volume** slider at the bottom to adjust audio output in real time.
 
 ---
-
-## 📂 Project Structure
+ 
+## Project Structure
 
 ```text
 Basic_MUSIC_PLAYER/
